@@ -1,6 +1,5 @@
 ## Wwlcome to my profile 😉
-### Hello there 👋
-- 👤 I am :
-  - 📗 A student
-  - 💻 Creating random apps with **Python**
-  - 🔭 Learning **Java** and maybe **C++**
+- 💻 I'm creating random projects with:
+  - Usually **Python**
+  - Sometimes **Java**
+- 🔭 Also I wanne learn **C++**.
