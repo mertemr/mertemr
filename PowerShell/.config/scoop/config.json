@@ -1,0 +1,16 @@
+{
+    "last_update": "2023-11-12T12:12:41.8421992+03:00",
+    "alias": {
+        "upgrade": "{scoop update -f;, scoop update -a;, scoop cache rm *;, scoop cleanup *;}"
+    },
+    "default_architecture": "64bit",
+    "debug": false,
+    "aria2-enabled": true,
+    "aria2-max-connection-per-server": "16",
+    "aria2-split": "16",
+    "aria2-warning-enabled": false,
+    "aria2-options": "",
+    "ignore_running_processes": true,
+    "scoop_branch": "master",
+    "scoop_repo": "https://github.com/ScoopInstaller/Scoop"
+}
