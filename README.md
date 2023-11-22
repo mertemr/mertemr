@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on ~~Local urban transport project~~<br>🌱 I’m currently learning DevOps Systems<br>👯 I’m looking to collaborate on Public projects written in Python
+🔭 I’m currently working on **nothing**  
+🌱 I’m currently learning **Qt6 and C++** again  
+👯 I’m looking to collaborate on Public projects written in Python  
 
 
 # 💻 Tech Stack:
