@@ -1,6 +1,6 @@
 <div align="center"> 
   <h1>👋  Hello! Mert Emir here..</h1>
-💖 DevOps Engineer candidate of the future 🐋   
+💖 A DevOps Engineer loves Docker 🐋   
 </div>
 <br />
 
