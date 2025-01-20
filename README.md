@@ -5,11 +5,14 @@
 <br />
 
 ### 🧑‍💻 About me
-🔭 I’m currently working on a **new Startup** 👉 [STARS](https://github.com/StarsShiningintheSky)  
-🌱 I’m currently learning **React & React Native** for my personal projects
+I’m currently 
+  - 🔭 working on a new startup and wish to scale it up soon! 👉 [Devolvia](https://github.com/devolvia)  
+  - 🔨 enhancing my skills in **System Administration** and **Advanced Networking** in my current role.  
+  - 🌱 learning **Django** to develop new projects!
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mertemr)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mertemr)
+
 
 ### 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
@@ -24,6 +27,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=mertemr&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mertemr&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mertemr&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+*sorry github I haven't looked at you for a while :|*
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mertemr&icon=5&color=0)](https://visitcount.itsvg.in)
