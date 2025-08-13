@@ -6,9 +6,8 @@
 
 ### 🧑‍💻 About me
 I’m currently 
-  - 🔭 working on a new startup and wish to scale it up soon! 👉 [Devolvia](https://github.com/devolvia)  
-  - 🔨 enhancing my skills in **System Administration** and **Advanced Networking** in my current role.  
-  - 🌱 learning **Django** to develop new projects!
+  - 🔨 enhancing my skills in **Amazon Web Services** and **DevSecOps** in my current role.  
+  - 🌱 mastering in **GitHub Actions** and **Kubernetes**  
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mertemr)
