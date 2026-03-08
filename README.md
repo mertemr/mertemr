@@ -27,7 +27,7 @@ I’m currently
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mertemr&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mertemr&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-*sorry github I haven't looked at you for a while :|*
+*rip. Sufle (the calmest cat in my pp)*
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mertemr&icon=5&color=0)](https://visitcount.itsvg.in)
